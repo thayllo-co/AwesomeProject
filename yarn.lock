@@ -1140,6 +1140,11 @@
     opencollective-postinstall "^2.0.1"
     superstruct "^0.6.2"
 
+"@react-native-firebase/database@^7.5.12":
+  version "7.5.12"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/database/-/database-7.5.12.tgz#c068097d8adfd03972f8bbd0132e61a96529c6d1"
+  integrity sha512-GCALB/dI8Mh6EdLLLc9y9lFJGgobOXnZjzd6Y1P/jIxHpjwnZcZBMn7MfY36iZ6PWfg4+oW48kkiV77unFsFzA==
+
 "@sinonjs/commons@^1.7.0":
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/@sinonjs/commons/-/commons-1.8.1.tgz#e7df00f98a203324f6dc7cc606cad9d4a8ab2217"
